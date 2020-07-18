@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: SF UI Display;
+    font-style: normal;
+    font-weight: normal;
+}
+.logo-arch{
+    position: absolute;
+    width: 50.86px;
+    height: 10.63px;
+    left: 96px;
+    top: 24px;
+}
+ul {
+    list-style-type: none;
+}
+.nav-bar{
+    position: absolute;
+    width: 1400px;
+    height: 96px;
+    left: 0px;
+    top: 0px;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    position: absolute;
+    width: 507px;
+    height: 48px;
+    left: 148px;
+    top: 24px;
+}
+.frame3{
+    display: flex;
+    flex-direction: row;
+    padding: 4px 5px;
+    position: static;
+    width: 138px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+    border-radius: 4px;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 0;
+    align-self: center;
+    margin: 0px 0px;
+}
+.frame4{
+    display: flex;
+    flex-direction: row;
+    padding: 4px 5px;
+    position: static;
+    width: 145px;
+    height: 48px;
+    left: 138px;
+    top: 0px;
+    border-radius: 4px;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 1;
+    align-self: center;
+    margin: 0px 0px;
+}
+.frame5{
+    display: flex;
+    flex-direction: row;
+    padding: 4px 5px;
+    position: static;
+    width: 94px;
+    height: 48px;
+    left: 283px;
+    top: 0px;
+    border-radius: 4px;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 2;
+    align-self: center;
+    margin: 0px 0px;
+}
+.frame6{
+    display: flex;
+    flex-direction: row;
+    padding: 4px 5px;
+    position: static;
+    width: 130px;
+    height: 48px;
+    left: 377px;
+    top: 0px;
+    border-radius: 4px;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 3;
+    align-self: center;
+    margin: 0px 0px;
+}
+.search{
+    position: absolute;
+    left: 78%;
+    right: 10.94%;
+    top: 30%;
+    bottom: 10.94%;
+    width: 15px;
+    height: 15px;
+}
+#consult{
+    position: absolute;
+    text-align: center;
+    display: block;
+    flex-direction: row;
+    padding: 4px 5px;
+    width: 90px;
+    height: 40px;
+    left: 1200px;
+    top: 15px;
+    color: white;
+    border-color: white;
+    background: #F2AA4C;
+    border-radius: 5px;
+}
+.section1{
+    position: absolute;
+    width: 1440px;
+    height: 847px;
+}
+.house{
+    position: absolute;
+    width: 870px;
+    height: 224px;
+    left: 165px;
+    top: 144px;
+    font-family: New York Extra Large;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 112px;
+    line-height: 100%;
+    /* or 112px */
+    letter-spacing: -0.04em;
+    color: #000000;
+}
+.text{
+    color: #F2AA4C;
+}
+img{
+    /* home-real-estate-106399 1 */
+    position: absolute;
+    width: 700px;
+    height: 480px;
+    left: 300px;
+}
+p{
+    position: absolute;
+    width: 290px;
+    height: 130px;
+    left: 165px;
+    top: 424px;
+}
+#button{
+    display: block;
+    flex-direction: row;
+    padding: 5px;
+    position: absolute;
+    width: 179px;
+    height: 56px;
+    left: 165px;
+    top: 602px;
+    text-align: center;
+    background: #F2AA4C;
+    border-radius: 4px;
+    border: white;
+    text-align: center;
+    color: white;
+}
+.section2{
+    position: absolute;
+    width: 1440px;
+    height: 720px;
+    left: 0px;
+    top: 943px;
+}
+#header2{
+    position: absolute;
+    width: 535px;
+    height: 120px;
+    left: 510px;
+    font-family: New York Extra Large;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 124%;
+    /* or 60px */
+    letter-spacing: -0.04em;
+    color: #000000;
+}
+.img-container{
+    float: left;
+    width: 25%;
+    position: absolute;
+    top: 100px;
+    height: 425px;
+    left: 165px;
+    padding: 5px;
+}
