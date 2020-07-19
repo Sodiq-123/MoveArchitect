@@ -20,7 +20,7 @@ ul {
 }
 .nav-bar{
     position: absolute;
-    width: 1400px;
+    width: 1200px;
     height: 96px;
 }
 .menu{
@@ -30,7 +30,7 @@ ul {
     position: absolute;
     width: 507px;
     height: 48px;
-    left: 130px;
+    left: 148px;
     top: 24px;
 }
 .frame3{
@@ -99,7 +99,7 @@ ul {
 }
 .search{
     position: absolute;
-    left: 65%;
+    left: 89%;
     right: 10.94%;
     top: 30%;
     bottom: 10.94%;
@@ -114,7 +114,7 @@ ul {
     padding: 4px 5px;
     width: 90px;
     height: 40px;
-    left: 1000px;
+    left: 1150px;
     top: 15px;
     color: white;
     border-color: white;
@@ -124,7 +124,7 @@ ul {
 .section1{
     position: absolute;
     width: 1200px;
-    height: 800px;
+    height: 847px;
 }
 .house{
     position: absolute;
@@ -176,7 +176,7 @@ p{
 }
 .section2{
     position: absolute;
-    width: 1440px;
+    width: 1200px;
     height: 720px;
     left: 0px;
     top: 943px;
